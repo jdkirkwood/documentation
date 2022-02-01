@@ -42,7 +42,7 @@ Upgrade the database to the latest Odoo version.
    caution. It is essential to test the upgrade before upgrading the production database.
 
 .. seealso::
-   - :doc:`../upgrade/process`
+   - :doc:`../upgrade`
 
 .. _online/duplicate:
 

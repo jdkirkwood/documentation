@@ -47,13 +47,13 @@ In general, the "smaller" the database, the quickest the upgrade request is comp
 database that uses only CRM will be processed faster than a multi-company, multi-user database that
 uses Accounting, Sales, Purchase, and Manufacturing.
 
-You can expect the time it takes for the platform to upgrade the test database will be similar to
-the production upgrade.
+You can expect the time it takes for the platform to upgrade the test database to be similar to the
+production upgrade.
 
 .. _upgrade-faq/project:
 
-The upgrade project
-===================
+Duration of the upgrade project
+-------------------------------
 
 It depends on the user involvement (the time spent on testing, reporting problems, etc.) and the
 issues encountered that might need to be addressed by our technical team.
@@ -88,7 +88,7 @@ Editions change (from Community to Enterprise)
 The upgrade always returns an Enterprise edition of Odoo, whether the database you sent was a
 community or enterprise edition. It is required to have an enterprise subscription to upgrade.
 
-.. note:: |assistance-contact|
+If you need assistance on this matter,  please contact us via the `Odoo Support page <https://www.odoo.com/help>`_.
 
 .. seealso::
    - `Editions <https://www.odoo.com/page/editions>`_
