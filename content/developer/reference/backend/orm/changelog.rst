@@ -1,10 +1,8 @@
-
 .. _reference/orm_changelog:
 
-=============
-ORM Changelog
-=============
-
+=================
+ORM API Changelog
+=================
 
 version 15.2
 ============

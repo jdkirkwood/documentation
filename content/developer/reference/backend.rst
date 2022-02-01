@@ -8,7 +8,6 @@ Backend
     :titlesonly:
 
     backend/orm
-    backend/orm_changelog
     backend/data
     backend/actions
     backend/views
