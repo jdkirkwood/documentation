@@ -4,6 +4,16 @@
 Write documentation
 ===================
 
+List with the issue
+
+- | A
+- B
+
+Without:
+
+- C
+- D
+
 .. toctree::
    :titlesonly:
 
